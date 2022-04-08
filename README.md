@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.rrweb.io/" style="font-weight: bold">Try rrweb</a>
 </p>
-
+无头浏览器（抓取图片）+ ffmpeg(将图片合成视频)
 # rrweb
 
 **[The rrweb documentary (in Chinese, with English subtitles)](https://www.bilibili.com/video/BV1wL4y1B7wN?share_source=copy_web)**
